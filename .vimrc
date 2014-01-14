@@ -154,3 +154,4 @@ set guifont=ProggyCleanTT\ 16
 "   filetype plugin indent on
 "   endif 
 
+set encoding=utf-8
